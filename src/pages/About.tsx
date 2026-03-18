@@ -184,7 +184,9 @@ export default function About() {
 
           <div className="pt-4 flex flex-wrap gap-4">
             <motion.a
-              href="https://drive.google.com/uc?export=download&id=1sAqsniEdPC0WbhzA0XjNHLt_2aG_-CQ-"
+              href="https://drive.google.com/file/d/1WYKUwhVHAM4GXWIbEkJQU_XMWtvH-jwz/view?usp=drive_link"
+              target="_blank"
+              rel="noopener noreferrer"
               className="relative inline-flex items-center gap-2 px-8 py-4 text-white rounded-xl font-semibold transition-all shadow-sm overflow-visible group"
               style={{ backgroundColor: '#000000' }}
               whileHover="hover"
